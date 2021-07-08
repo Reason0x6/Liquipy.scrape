@@ -1,3 +1,6 @@
+## TODO
+Simplify loop into one section to limit cpu time (for slower pcs)
+
 # Liquipy.scrape
 
 Reason0x6/Liquipy.scrape is licensed under the
